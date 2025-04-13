@@ -2,7 +2,7 @@
 
 ---
 
-# Ghostium
+# Ghostium "Browser"
 
 Basado en [Supermium v122.0.6261.85](https://github.com/win32ss/supermium/releases/tag/v122)
 
